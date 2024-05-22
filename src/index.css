@@ -174,4 +174,9 @@
             width: 100%;
         }
     }
+       .correct {
+        background-color: #bbf7d0;
+        border: 1px solid #bbf7d0;
+        color: #14532d;
+    }
 }
