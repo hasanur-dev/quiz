@@ -179,4 +179,9 @@
         border: 1px solid #bbf7d0;
         color: #14532d;
     }
+      .wrong {
+        background-color: #fecaca;
+        border: 1px solid #fecaca;
+        color: #7f1d1d;
+    }
 }
