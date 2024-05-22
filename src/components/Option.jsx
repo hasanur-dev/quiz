@@ -14,7 +14,7 @@ export default function Option({
         // </button>
         <button
             onClick={() => handleAnswer(option)}
-            className={`${correct ? 'correct' : ''}`}
+           className={`${correct ? 'correct' : ''} ${wrong ? 'wrong' : ''}`}
         >
             {option}
         </button>
